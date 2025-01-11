@@ -16,7 +16,3 @@ Este proyecto es una calculadora que permite realizar las siguientes operaciones
 - `dividir.py`: Contiene la función para dividir dos números.
 - `suma_avanzada.py`: Contiene la función para sumar una cantidad N de números.
 
-## Instalación
-1. Clona este repositorio:
-   ```bash
-   git clone <URL_DEL_REPOSITORIO>
